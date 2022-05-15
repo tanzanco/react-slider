@@ -1,5 +1,4 @@
 # react-projects-7-slider
-
+Slider single page application made with reactjs
 #### IN ACTION
 
-[Gatsby-Airtable Project](https://gatsby-airtable-design-project.netlify.app/)
